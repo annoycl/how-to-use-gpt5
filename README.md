@@ -85,6 +85,7 @@
 
 这一天天的 Claude、智谱、Kimi、OpenAI 轮流放大招，用都用不过来了～
 
+本文参考: https://csguide.cn/private/2025-gpt5-all.html
 
 
 ------
