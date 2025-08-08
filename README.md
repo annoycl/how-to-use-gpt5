@@ -10,7 +10,7 @@
 ![](https://cdn.how2cs.cn/gzh/2025-08-07-151104.png)
 
 
-2025.8.8，目前 OpenAI 已经推送 GPT-5 模型，Plus用户可以畅享，免费用户受限使用，如果你还没有账号还想体验的话，欢迎加我微信: haveylin
+2025.8.8，目前 OpenAI 已经推送 GPT-5 模型，Plus用户可以畅享，免费用户受限使用
 
 
 ![](https://cdn.how2cs.cn/gzh/2025-08-08-0f6c856ea23c7ffc4660bd4caddda2e4.png)
